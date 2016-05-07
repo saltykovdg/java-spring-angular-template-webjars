@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/java-spring-angular-template-webjars-1.0.jar
